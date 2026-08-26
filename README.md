@@ -1,6 +1,6 @@
 # Sysarmy Salary Survey Dashboard
 
-<img width="1344" height="756" alt="powerbi_sysarmy" src="https://github.com/user-attachments/assets/7a9c75e5-b6df-4caa-9ca9-a38c89ff1e8e" />
+<img width="1344" height="756" alt="powerbi_sysarmy" src="https://github.com/user-attachments/assets/46a1c048-8afa-4057-9f7d-3ffab45fd037" />
 
 This is an interactive dashboard built with Power BI using data from the **Sysarmy Salary Survey**.
 
